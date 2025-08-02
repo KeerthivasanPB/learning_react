@@ -10,3 +10,9 @@ Day 02:-
 -> created a simple custom react
 -> learnt how vite renders the html given by us
 -> created a react element using React.createElement() in a format that vite accepts to render
+
+Day 03:-
+-> learnt what is states and how react renders the page
+-> learnt what is reconciliation, and fiber
+-> learnt how to launch vite with tailwind installed
+-> created a responsive component by using props
