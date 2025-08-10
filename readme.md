@@ -16,3 +16,7 @@ Day 03:-
 -> learnt what is reconciliation, and fiber
 -> learnt how to launch vite with tailwind installed
 -> created a responsive component by using props
+
+Day 04:-
+-> created a small background color changer using usestate
+
